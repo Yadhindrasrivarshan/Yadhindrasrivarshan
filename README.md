@@ -17,4 +17,4 @@ I am interested in learning and exploring more about React,Python,java. I am a p
 
 [<img src='https://icons-for-free.com/iconfiles/png/512/code+collaboration+github+network+round+social+icon-1320086084536018107.png' alt='github' height='40'>](https://github.com/Yadhindrasrivarshan)  [<img src='https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1622960397~hmac=89cc4ddace0884ba3ad0e45235ceccdf' alt='linkedin' height='40'>](https://www.linkedin.com/in/yadhindra-sri-varshan-486540152/)  [<img src='https://icons-for-free.com/iconfiles/png/512/instagram+instagram+new+design+logo+social+media+icon-1320184016084463641.png' alt='instagram' height='40'>](https://www.instagram.com/yadhindra_sri_varshan_17/)  [<img src='https://cdn.iconscout.com/icon/premium/png-256-thumb/portfolio-285-692609.png' alt='website' height='40'>](https://yadhindrasrivarshan-portfolio.netlify.app/)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yadhindrasrivarshan)]
+[![Srivarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yadhindrasrivarshan)]
